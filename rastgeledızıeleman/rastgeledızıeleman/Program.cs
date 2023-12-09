@@ -1,4 +1,4 @@
-﻿
+
 
 /*
 
@@ -14,6 +14,7 @@ class Program
             B[a] = rastgele.Next(10, 51);//10 – 50 arasında rastgele sayı üretilir ve B[a] ya atanır.
             Console.WriteLine(a + ". Sayı = " + B[a]);
         }
+
         Console.Write("Press any key to continue . . . ");
         Console.ReadKey(true);
     }
@@ -40,8 +41,8 @@ namespace or096  //-------------------foreach ıle tekrar yazımı
                 }
 
                 // Burs miktarı 500'den küçükse artış yapılır.
-                double yeniBurs = (burs * 0.1) + burs;
-                yeniBurs = yeniBurs + 50;
+                double yeniBurs = (burs * 0.1) + burs; //10 bol ve kendını ekle
+                yeniBurs = yeniBurs + 50; //daha sonra 50 ekle 
 
                 Console.WriteLine(yeniBurs);
             }
