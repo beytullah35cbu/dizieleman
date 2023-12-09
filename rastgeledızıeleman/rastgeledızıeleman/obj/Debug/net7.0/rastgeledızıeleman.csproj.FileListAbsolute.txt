@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/bin/Debug/net7.0/rastgeledızıeleman
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/bin/Debug/net7.0/rastgeledızıeleman.deps.json
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/bin/Debug/net7.0/rastgeledızıeleman.runtimeconfig.json
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/bin/Debug/net7.0/rastgeledızıeleman.dll
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/bin/Debug/net7.0/rastgeledızıeleman.pdb
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.AssemblyInfo.cs
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.dll
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/refint/rastgeledızıeleman.dll
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.pdb
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/rastgeledızıeleman.genruntimeconfig.cache
+/Users/beytullah/Projects/rastgeledızıeleman/rastgeledızıeleman/obj/Debug/net7.0/ref/rastgeledızıeleman.dll
